@@ -16,3 +16,4 @@ Cada vez que se guarda un trabajo, Git crea una confirmación, es decir, es de f
 Si un archivo no ha cambiado de una confirmación a la siguiente. 
 Los desarrolladores guardan los cambios en su propio repositorio de código local.
 dando como resultado que existen varios cambios diferentes basados en la misma confirmación. 
+Esta linea modifica el archivo de README
